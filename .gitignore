@@ -13,3 +13,6 @@
 *.hw/
 *.cache/
 *.Xil/
+
+# mac
+.DS_Store
