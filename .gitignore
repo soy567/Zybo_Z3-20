@@ -1,0 +1,15 @@
+# vscode
+.vs
+
+# pdf file
+*.pdf
+
+# vivado file
+*.log
+*.jou
+*.sim/
+*.runs/
+*.ip_user_files/
+*.hw/
+*.cache/
+*.Xil/
